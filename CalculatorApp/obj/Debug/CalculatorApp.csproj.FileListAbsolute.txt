@@ -1,0 +1,7 @@
+c:\users\alpha pawn\source\repos\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.exe.config
+c:\users\alpha pawn\source\repos\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.exe
+c:\users\alpha pawn\source\repos\CalculatorApp\CalculatorApp\bin\Debug\CalculatorApp.pdb
+c:\users\alpha pawn\source\repos\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.csprojAssemblyReference.cache
+c:\users\alpha pawn\source\repos\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.csproj.CoreCompileInputs.cache
+c:\users\alpha pawn\source\repos\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.exe
+c:\users\alpha pawn\source\repos\CalculatorApp\CalculatorApp\obj\Debug\CalculatorApp.pdb
